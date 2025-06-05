@@ -1,0 +1,9 @@
+a- Quedan solo los últimos cambios de cada archivo.
+b- Si, llegaban los pull request a medida que se hacían los push de los demás colaboradores.
+c- Para hacer el merge debo seguir estos pasos:
+- git checkout main (me muevo a la rama main)
+- git merge (nombre de la rama)
+- hubo problemas con un archivo que tenia varios cambios así que nos pide elegir
+manualmente que conservar de cada archivo editado. Una vez resuelto se escribe
+- git add (archivo modificado)
+- git push origin main (pusheo todos los cambios a la rama main)
