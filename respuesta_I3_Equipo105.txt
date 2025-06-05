@@ -1,7 +1,7 @@
 
 d- No, las ramas creadas por BETA y GAMMA no quedan con los datos completamente actualizados hasta que se realiza un merge.
 
-e- El principal problema fue la aparición de conflictos de merge. Porque tanto la rama Ramundo como la rama main habían modificado el mismo archivo (beta.txt) en las mismas líneas o secciones. Git no puede decidir automáticamente qué cambios conservar.
+e- El principal problema fue la aparición de conflictos de merge. Porque tanto la rama Ramundo como la rama main habían modificado el mismo archivo (beta.txt) en las mismas líneas. Git no puede decidir automáticamente qué cambios conservar.
 
 f- comandos:
 echo datos > beta.txt
