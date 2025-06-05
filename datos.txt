@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Nombre Apellido: Lucia Ramundo - IP: 192.168.56.1 - Hora: 11:30
-=======
-Nombre Apellido: Lucia Ramundo - IP: 192.168.56.1 - Hora: 11:18
->>>>>>> ec37d7f (GAMMA creo CPUGamma.txt)
+
