@@ -1,42 +1,69 @@
 Nombre: Lucia Ramundo
+BETA 
 
-Configuraci¢n IP de Windows
+
+
+ConfiguraciÂ¢n IP de Windows
 
 
 Adaptador de Ethernet Ethernet:
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
-   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Sufijo DNS especÂ¡fico para la conexiÂ¢n. . : 
 
 Adaptador de Ethernet Ethernet 2:
 
-   Sufijo DNS espec¡fico para la conexi¢n. . : 
-   V¡nculo: direcci¢n IPv6 local. . . : fe80::5a00:12dc:2637:4f0d%14
-   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
-   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Sufijo DNS especÂ¡fico para la conexiÂ¢n. . : 
+
+   VÂ¡nculo: direcciÂ¢n IPv6 local. . . : fe80::5a00:12dc:2637:4f0d%14
+
+   VÂ¡nculo: direcciÂ¢n IPv6 local. . . : fe80::8799:8008:2311:64a6%18
+
+   DirecciÂ¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   MÂ scara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : 
 
-Adaptador de LAN inal mbrica Conexi¢n de  rea local* 1:
+
+Adaptador de LAN inalÂ mbrica ConexiÂ¢n de Â rea local* 1:
+
+Adaptador de LAN inalÂ mbrica ConexiÂ¢n de Â rea local* 2:
+
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
-   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Sufijo DNS especÂ¡fico para la conexiÂ¢n. . : 
 
-Adaptador de LAN inal mbrica Conexi¢n de  rea local* 10:
+
+Adaptador de LAN inalÂ mbrica ConexiÂ¢n de Â rea local* 10:
+
+Adaptador de LAN inalÂ mbrica ConexiÂ¢n de Â rea local* 3:
+
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
-   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Sufijo DNS especÂ¡fico para la conexiÂ¢n. . : 
 
-Adaptador de LAN inal mbrica Wi-Fi:
+Adaptador de LAN inalÂ mbrica Wi-Fi:
 
-   Sufijo DNS espec¡fico para la conexi¢n. . : home
-   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:49e:2355:cd8b:78eb:bb06:be8f
-   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:49e:2355:f42e:f213:c185:5acb
-   Direcci¢n IPv6 . . . . . . . . . . : fdaa:bbcc:ddee:0:2574:806e:9050:ef9e
-   Direcci¢n IPv6 temporal. . . . . . : 2800:810:49e:2355:68c0:c3c9:ba0a:6330
-   Direcci¢n IPv6 temporal. . . . . . : fdaa:bbcc:ddee:0:68c0:c3c9:ba0a:6330
-   V¡nculo: direcci¢n IPv6 local. . . : fe80::655a:376d:f16d:bc3d%18
-   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.8
-   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+
+   Sufijo DNS especÂ¡fico para la conexiÂ¢n. . : home
+   DirecciÂ¢n IPv6 . . . . . . . . . . : 2800:810:49e:2355:cd8b:78eb:bb06:be8f
+   DirecciÂ¢n IPv6 . . . . . . . . . . : 2800:810:49e:2355:f42e:f213:c185:5acb
+   DirecciÂ¢n IPv6 . . . . . . . . . . : fdaa:bbcc:ddee:0:2574:806e:9050:ef9e
+   DirecciÂ¢n IPv6 temporal. . . . . . : 2800:810:49e:2355:68c0:c3c9:ba0a:6330
+   DirecciÂ¢n IPv6 temporal. . . . . . : fdaa:bbcc:ddee:0:68c0:c3c9:ba0a:6330
+   VÂ¡nculo: direcciÂ¢n IPv6 local. . . : fe80::655a:376d:f16d:bc3d%18
+   DirecciÂ¢n IPv4. . . . . . . . . . . . . . : 192.168.0.8
+   MÂ scara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : fe80::dad7:75ff:feed:4c08%18
                                        192.168.0.1
 Thu Jun  5 12:22:12     2025
+
+   Sufijo DNS especÂ¡fico para la conexiÂ¢n. . : 
+   DirecciÂ¢n IPv6 . . . . . . . . . . : 2802:8010:7006:9600:370e:8def:2a35:fd2c
+   DirecciÂ¢n IPv6 temporal. . . . . . : 2802:8010:7006:9600:e88d:e215:a2dc:5bde
+   VÂ¡nculo: direcciÂ¢n IPv6 local. . . : fe80::a88a:ab0:bc91:d1fa%10
+   DirecciÂ¢n IPv4. . . . . . . . . . . . . . : 192.168.1.56
+   MÂ scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::ceed:dcff:fe63:55d6%10
+                                       192.168.1.1
+Thu Jun  5 12:14:16     2025
+
