@@ -23,3 +23,15 @@ manualmente que conservar de cada archivo editado. Una vez resuelto se escribe
 - git add (archivo modificado)
 - git push origin main (pusheo todos los cambios a la rama main)
 
+-g 
+- git checkout (nombre de la rama)
+- git pull
+o bien git pull origin (nombre de la rama)
+- nano beta.txt (agrego nombre y apellido)
+- cat ipconfig >> beta.txt (agrego datos de ip)
+- cat date >> beta.txt (agrego fecha y hora)
+- git add .
+- git commit -m ""
+- git push origin (nombre de la rama)
+
+si hay error, elegir manualmente que modificaciones conservar y repetir desde git add .
