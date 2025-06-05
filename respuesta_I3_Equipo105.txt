@@ -1,3 +1,18 @@
+
+d- No, las ramas creadas por BETA y GAMMA no quedan con los datos completamente actualizados hasta que se realiza un merge.
+
+e- El principal problema fue la aparición de conflictos de merge. Porque tanto la rama Ramundo como la rama main habían modificado el mismo archivo (beta.txt) en las mismas líneas o secciones. Git no puede decidir automáticamente qué cambios conservar.
+
+f- comandos:
+echo datos > beta.txt
+ipconfig >> beta.txt
+date >> beta.txt
+git add beta.txt
+git commit -m GAMMA modifica beta.txt
+git pull --rebase origin Ramundo
+git push origin Ramundo
+
+
 a- Quedan solo los últimos cambios de cada archivo.
 b- Si, llegaban los pull request a medida que se hacían los push de los demás colaboradores.
 c- Para hacer el merge debo seguir estos pasos:
@@ -7,3 +22,4 @@ c- Para hacer el merge debo seguir estos pasos:
 manualmente que conservar de cada archivo editado. Una vez resuelto se escribe
 - git add (archivo modificado)
 - git push origin main (pusheo todos los cambios a la rama main)
+
